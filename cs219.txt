@@ -1,0 +1,8 @@
+StudentName, AbsenceCount
+Mary D. Brown, 0 
+Tracy Smith, 7
+Muhammad Ali, 4
+Tracy A. Smith, 2
+Richard Young, 0
+Ben T. Johnson, 1
+Samuel Ebeling, 8  
